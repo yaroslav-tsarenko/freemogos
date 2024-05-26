@@ -1,0 +1,123 @@
+.heading-3,
+.we-are-here {
+  position: relative;
+  line-height: 48px;
+}
+.we-are-here {
+  font-size: 16px;
+  font-family: Poppins;
+  color: #8791aa;
+}
+.question-content,
+.question-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.question-heading {
+  gap: 32px;
+}
+.question-content {
+  height: 230.2px;
+  min-width: 301px;
+}
+.faq-banner-oehyt2fmpng-icon {
+  width: 610px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  max-width: 100%;
+}
+.background1,
+.questions {
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.background1 {
+  flex: 1;
+  background-color: #fff;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 17.8px 20px;
+  gap: 9px;
+}
+.questions {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 80px;
+}
+.f-a-q,
+.faq,
+.questions {
+  display: flex;
+  align-items: flex-start;
+}
+.f-a-q {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 80px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.faq {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#f7f7f7, #f7f7f7), #fff;
+  overflow-y: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 31.9px;
+  color: #001e32;
+  font-family: Inter;
+}
+@media screen and (max-width: 1200px) {
+  .f-a-q {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .heading-3 {
+    font-size: 26px;
+    line-height: 38px;
+  }
+  .faq-banner-oehyt2fmpng-icon,
+  .question-content {
+    flex: 1;
+  }
+  .background1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .f-a-q,
+  .questions {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .f-a-q {
+    padding-bottom: 22px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-3 {
+    font-size: 19px;
+    line-height: 29px;
+  }
+  .question-heading {
+    gap: 16px;
+  }
+  .f-a-q {
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,128 @@
+.horizontal-divider3 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  background-color: #e3e5e8;
+  max-width: 100%;
+}
+.horizontal-divider-wrapper {
+  width: 920px;
+  height: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 7px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.copyright-20243,
+.follow-us3 {
+  position: relative;
+  line-height: 24px;
+}
+.copyright-20243 {
+  margin: 0;
+  height: 24px;
+  width: 404.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.follow-us3 {
+  display: inline-block;
+  min-width: 76px;
+}
+.link-image6,
+.link-image7 {
+  height: 32px;
+  width: 32px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 32px;
+}
+.copyright-2024-ifree-group-i-parent,
+.social1 {
+  width: 220px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 40px;
+  text-align: left;
+  font-size: 16px;
+}
+.copyright-2024-ifree-group-i-parent {
+  width: 920px;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+  text-align: center;
+  font-size: 15.9px;
+  color: #8791aa;
+}
+.ai-3rb8dxspng-icon {
+  position: absolute;
+  top: calc(50% - 11.5px);
+  left: calc(50% - 11.5px);
+  width: 23px;
+  height: 23px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.button7,
+.link-icon3 {
+  position: absolute;
+  margin: 0 !important;
+  right: 40px;
+  border-radius: 16px;
+  z-index: 1;
+}
+.button7 {
+  width: 47px;
+  height: 47px;
+  bottom: 98px;
+  background-color: #fff;
+  border: 1px solid #bbbdbf;
+  box-sizing: border-box;
+}
+.link-icon3 {
+  width: 48px;
+  height: 48px;
+  bottom: 40px;
+}
+.footer3 {
+  align-self: stretch;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 40px 20px 87px 21px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 36px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 14px;
+  color: #c8d2e6;
+  font-family: Poppins;
+}
+@media screen and (max-width: 750px) {
+  .copyright-2024-ifree-group-i-parent {
+    flex-wrap: wrap;
+  }
+  .footer3 {
+    gap: 18px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .footer3 {
+    padding-top: 26px;
+    padding-bottom: 57px;
+    box-sizing: border-box;
+  }
+}

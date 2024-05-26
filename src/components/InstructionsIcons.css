@@ -1,0 +1,39 @@
+.home-data-plan-left-7uxzclbup-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.select-esim-data {
+  position: relative;
+  line-height: 24px;
+}
+.instruction-labels {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 26px;
+}
+.instructions-icons {
+  height: 243px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 39px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 16px;
+  color: #001e32;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .instructions-icons {
+    gap: 19px;
+  }
+}

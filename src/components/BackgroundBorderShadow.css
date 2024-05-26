@@ -1,0 +1,135 @@
+.globalpng-icon {
+  height: 68px;
+  width: 68px;
+  position: relative;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.regional-p {
+  position: relative;
+  line-height: 30px;
+}
+.container12 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 4px 0.5px 0;
+}
+.countries1 {
+  position: relative;
+  font-size: 20px;
+  line-height: 40px;
+  color: #6f7789;
+  display: inline-block;
+  min-width: 113.6px;
+}
+.container-parent {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 2px;
+}
+.container-parent,
+.frame-wrapper,
+.globalpng-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: 8px 0 0;
+}
+.globalpng-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 16px;
+}
+.starting-from7 {
+  position: relative;
+  font-size: 14px;
+  line-height: 14px;
+  color: #6f7789;
+  display: inline-block;
+  min-width: 80.3px;
+  white-space: nowrap;
+}
+.frame-parent6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.div6,
+.gb7 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 41px;
+}
+.div6 {
+  min-width: 66px;
+  white-space: nowrap;
+}
+.frame-parent5,
+.gb-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gb-parent1 {
+  flex-direction: row;
+  gap: 3.1px;
+  font-size: 20px;
+}
+.frame-parent5 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 4px;
+}
+.days10 {
+  position: relative;
+  font-size: 20px;
+  line-height: 20px;
+  color: #6f7789;
+  display: inline-block;
+  min-width: 69px;
+}
+.backgroundbordershadow16 {
+  width: 279.3px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 32px;
+  background-color: #fff;
+  border: 1px solid #bbbdbf;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 23px 23px 23px 25px;
+  gap: 16px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Poppins;
+}
+@media screen and (max-width: 450px) {
+  .regional-p {
+    font-size: 19px;
+    line-height: 24px;
+  }
+  .countries1,
+  .days10,
+  .div6,
+  .gb7 {
+    font-size: 16px;
+    line-height: 16px;
+  }
+}

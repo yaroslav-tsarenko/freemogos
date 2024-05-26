@@ -1,0 +1,141 @@
+.oceania {
+  position: relative;
+  line-height: 24px;
+  font-weight: 700;
+  display: inline-block;
+  min-width: 97px;
+}
+.aupng-icon,
+.australia {
+  position: relative;
+  flex-shrink: 0;
+}
+.aupng-icon {
+  height: 68px;
+  width: 68px;
+  border-radius: 5px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.australia {
+  width: 93.6px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+}
+.container13 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+}
+.country-image-container,
+.country-name-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.country-name-container {
+  flex: 1;
+  flex-direction: column;
+  padding: 19px 0 0;
+}
+.country-image-container {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 16px;
+  color: #000;
+}
+.gb8,
+.spacer,
+.starting-from8 {
+  position: relative;
+  display: inline-block;
+}
+.starting-from8 {
+  line-height: 14px;
+  min-width: 80.3px;
+  white-space: nowrap;
+}
+.gb8,
+.spacer {
+  line-height: 20px;
+  min-width: 40.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.spacer {
+  min-width: 54px;
+  white-space: nowrap;
+}
+.plan-data-size,
+.plan-price {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.plan-data-size {
+  flex-direction: row;
+  gap: 3.8px;
+  font-size: 20px;
+  color: #000;
+}
+.plan-price {
+  flex-direction: column;
+  gap: 4px;
+  font-size: 14px;
+}
+.days11 {
+  position: relative;
+  font-size: 20px;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 69px;
+}
+.backgroundbordershadow17,
+.continent-header {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.backgroundbordershadow17 {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 32px;
+  background-color: #fff;
+  border: 1px solid #bbbdbf;
+  padding: 23px 23px 23px 25px;
+  gap: 16px;
+  color: #6f7789;
+  font-family: Poppins;
+}
+.continent-header {
+  gap: 32.5px;
+  text-align: left;
+  font-size: 24px;
+  color: #001e32;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .australia,
+  .oceania {
+    font-size: 19px;
+    line-height: 19px;
+  }
+  .australia {
+    line-height: 24px;
+  }
+  .days11,
+  .gb8,
+  .spacer {
+    font-size: 16px;
+    line-height: 16px;
+  }
+  .continent-header {
+    gap: 16px;
+  }
+}

@@ -1,0 +1,131 @@
+.package-asia-pacificpng-icon1 {
+  height: 68px;
+  width: 68px;
+  position: relative;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.asia-pacific {
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+  white-space: nowrap;
+}
+.container11 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 20px 0.5px 0;
+}
+.countries {
+  position: relative;
+  font-size: 20px;
+  line-height: 20px;
+  color: #6f7789;
+  display: inline-block;
+  min-width: 121px;
+}
+.asia-pacific-flags-labels {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 2px;
+}
+.asia-pacific-flags,
+.asia-pacific-flags-labels,
+.asia-pacific-flags-sub-contain {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.asia-pacific-flags-sub-contain {
+  flex: 1;
+  flex-direction: column;
+  padding: 8px 0 0;
+}
+.asia-pacific-flags {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 16px;
+  color: #000;
+}
+.starting-from6 {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 80.3px;
+  white-space: nowrap;
+}
+.asia-pacific-data,
+.gb6 {
+  position: relative;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 40.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.asia-pacific-data {
+  min-width: 54px;
+  white-space: nowrap;
+}
+.asia-pacific-data-amount,
+.starting-from-parent3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.asia-pacific-data-amount {
+  flex-direction: row;
+  gap: 3.8px;
+  font-size: 20px;
+  color: #000;
+}
+.starting-from-parent3 {
+  flex-direction: column;
+  gap: 4px;
+  font-size: 14px;
+}
+.days9 {
+  position: relative;
+  font-size: 20px;
+  line-height: 20px;
+  display: inline-block;
+  min-width: 62px;
+}
+.backgroundbordershadow15 {
+  width: 279.3px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 32px;
+  background-color: #fff;
+  border: 1px solid #bbbdbf;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 23px 23px 23px 25px;
+  gap: 16px;
+  text-align: left;
+  font-size: 24px;
+  color: #6f7789;
+  font-family: Poppins;
+}
+@media screen and (max-width: 450px) {
+  .asia-pacific {
+    font-size: 19px;
+    line-height: 24px;
+  }
+  .asia-pacific-data,
+  .countries,
+  .days9,
+  .gb6 {
+    font-size: 16px;
+    line-height: 16px;
+  }
+}

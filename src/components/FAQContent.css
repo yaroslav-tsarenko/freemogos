@@ -1,0 +1,850 @@
+.general-questions {
+  position: relative;
+  line-height: 36px;
+  font-weight: 700;
+}
+.f-a-q-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 26px;
+  text-align: center;
+  font-size: 24px;
+}
+.what-is-mogo {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon32 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background26 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px;
+  gap: 20px;
+  font-size: 18px;
+}
+.how-many-mogo {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon33 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background27 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.how-long-is {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon34 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background28 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.can-mogo-esim,
+.image-icon35 {
+  position: relative;
+  flex-shrink: 0;
+}
+.can-mogo-esim {
+  width: 399px;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  max-width: calc(100% - 44px);
+}
+.image-icon35 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.background29 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+}
+.can-i-purchase,
+.image-icon36 {
+  position: relative;
+  flex-shrink: 0;
+}
+.can-i-purchase {
+  width: 655px;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  max-width: calc(100% - 44px);
+}
+.image-icon36 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.background30 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+}
+.can-i-still,
+.image-icon37 {
+  position: relative;
+  flex-shrink: 0;
+}
+.can-i-still {
+  width: 532px;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  max-width: calc(100% - 44px);
+}
+.image-icon37 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.background31 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+}
+.how-do-i {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon38 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background32 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.how-do-i1,
+.image-icon39 {
+  position: relative;
+  flex-shrink: 0;
+}
+.how-do-i1 {
+  width: 462px;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  max-width: calc(100% - 44px);
+}
+.image-icon39 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.background33 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+}
+.will-the-package {
+  height: 27px;
+  width: 716.3px;
+  position: relative;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: calc(100% - 44px);
+}
+.image-icon40 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background34 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+}
+.can-the-package {
+  width: 406px;
+  position: relative;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: calc(100% - 44px);
+}
+.image-icon41 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background35 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+}
+.what-payment-methods {
+  height: 27px;
+  position: relative;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+}
+.image-icon42 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background36 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.when-should-i {
+  height: 27px;
+  position: relative;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+}
+.image-icon43 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background37 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.how-do-i2 {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon44 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background38 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+  font-size: 18px;
+}
+.will-i-be {
+  flex: 1;
+  position: relative;
+  line-height: 27px;
+  display: inline-block;
+  max-width: calc(100% - 63px);
+}
+.image-icon45 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background39 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px 24px 16px;
+  box-sizing: border-box;
+  gap: 39px;
+  max-width: 100%;
+}
+.can-i-transfer {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon46 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background40 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.do-i-need,
+.image-icon47 {
+  position: relative;
+  flex-shrink: 0;
+}
+.do-i-need {
+  width: 688px;
+  line-height: 27px;
+  display: flex;
+  align-items: center;
+  max-width: calc(100% - 44px);
+}
+.image-icon47 {
+  height: 24px;
+  width: 24px;
+  overflow: hidden;
+}
+.background41 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+}
+.how-do-i3 {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon48 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background42 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.can-i-make {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon49 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background43 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.what-is-the {
+  width: 407px;
+  border: 0;
+  outline: 0;
+  display: flex;
+  font-family: Inter;
+  font-size: 17.9px;
+  background-color: transparent;
+  height: 27px;
+  position: relative;
+  line-height: 27px;
+  font-weight: 700;
+  color: #001e32;
+  text-align: left;
+  align-items: center;
+  max-width: calc(100% - 44px);
+  padding: 0;
+}
+.image-icon50 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background44 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+}
+.what-should-i {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon51 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background45 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.how-to-get {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon52 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background46 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.can-i-buy {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon53 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background47 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.can-i-get {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon54 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background48 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.how-to-activate {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon55 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background49 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+}
+.if-i-have {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  line-height: 27px;
+  font-weight: 700;
+  display: inline-block;
+  max-width: calc(100% - 91px);
+}
+.image-icon56 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background50 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px 24px 16px;
+  box-sizing: border-box;
+  gap: 67px;
+  max-width: 100%;
+}
+.how-to-use2 {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon57 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background51 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px 24px 16px;
+  gap: 20px;
+  font-size: 18px;
+}
+.where-can-i {
+  position: relative;
+  line-height: 27px;
+}
+.image-icon58 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background52 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 24px;
+  box-sizing: border-box;
+  min-height: 227px;
+  gap: 20px;
+}
+.manage1 {
+  color: #1b68ff;
+}
+.and1 {
+  color: #001e32;
+}
+.download-mogo-app-manage-and1 {
+  margin: 0;
+}
+.topup1 {
+  color: #1b68ff;
+}
+.topup-your-esims-anywhere-any1 {
+  margin: 0;
+}
+.download-mogo-app-container2 {
+  height: 80px;
+  position: relative;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-icon4,
+.link-icon5 {
+  align-self: stretch;
+  width: 189px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 56px;
+}
+.app-links {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 31px;
+  max-width: 100%;
+}
+.gradient1 {
+  position: absolute;
+  top: 748px;
+  left: 0;
+  border-radius: 327.5px;
+  background: linear-gradient(
+    251.89deg,
+    rgba(255, 255, 255, 0) 7.17%,
+    rgba(158, 191, 255, 0.09) 20.53%,
+    rgba(64, 128, 255, 0.18) 38.23%,
+    rgba(27, 104, 255, 0.21) 51.01%
+  );
+  width: 660px;
+  height: 650px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.img-app-xfd5uxgppng-icon1 {
+  position: absolute;
+  top: 0;
+  left: 144px;
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 2;
+}
+.app-image {
+  width: 650px;
+  height: 735px;
+  position: absolute;
+  margin: 0 !important;
+  right: -141px;
+  bottom: -435px;
+}
+.background53,
+.f-a-q-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.background53 {
+  align-self: stretch;
+  border-radius: 16px;
+  background-color: #f0f6ff;
+  overflow: hidden;
+  align-items: flex-start;
+  padding: 62px 20px 62px 95px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 40px;
+  font-size: 31.9px;
+}
+.f-a-q-content {
+  width: 920px;
+  align-items: flex-end;
+  gap: 24px;
+  text-align: left;
+  font-size: 17.9px;
+  color: #001e32;
+  font-family: Inter;
+}
+@media screen and (max-width: 1050px) {
+  .background50 {
+    gap: 33px;
+  }
+  .download-mogo-app-container2 {
+    font-size: 26px;
+    line-height: 32px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .app-links {
+    flex-wrap: wrap;
+  }
+  .background53 {
+    gap: 20px;
+    padding-left: 47px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .general-questions {
+    font-size: 19px;
+    line-height: 29px;
+  }
+  .background39 {
+    gap: 19px;
+  }
+  .background50 {
+    gap: 17px;
+  }
+  .download-mogo-app-container2 {
+    font-size: 19px;
+    line-height: 24px;
+  }
+  .app-links {
+    gap: 15px;
+  }
+  .background53 {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+}
